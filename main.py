@@ -26,7 +26,7 @@ app = Client(
     "KelimeDüzenleme",
     api_id=8365793,
     api_hash="53ea88aba8b6f1a2fcd4f17252aaad78",
-    bot_token="5220411967:AAE8_Gncz0q-4hzRduWo9TvWZs0rF5GJcNU",
+    bot_token="5278187676:AAEHKSS5Cj5SsZtLc462npaOXavAruk_ZFY",
     plugins=dict(root="modules"),
 )
 
